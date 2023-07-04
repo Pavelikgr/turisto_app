@@ -1,0 +1,12 @@
+.success-message {
+    color: green;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

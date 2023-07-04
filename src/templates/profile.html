@@ -1,0 +1,136 @@
+{% extends "base.html" %}
+
+{% block head %}
+<link rel="stylesheet" type="text/css" href="/static/avatar.css">
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Личный кабинет {{profile_username}}</h1>
+
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-header">
+          Сообщения
+        </div>
+        <div class="card-body">
+          <!-- Форма для отправки сообщения -->
+          <form>
+            <div class="form-group">
+              <label for="message">Новое сообщение:</label>
+              <textarea class="form-control" id="message" rows="3"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Отправить</button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-header">
+          Тикеты
+        </div>
+        <div class="card-body">
+          <!-- Ваш код для просмотра тикетов -->
+        </div>
+      </div>
+    </div>
+      {% if current_username == profile_username %}
+
+    <div class="col-md-4">
+          <form action="/delete-user" method="post">
+            <button type="submit" class="btn btn-danger float-right">Удалить аккаунт</button>
+          </form>
+    </div>
+    {% endif %}
+  </div>
+  <div class="row mt-4">
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-header">
+          Изменение аватарки
+        </div>
+        <div class="avatar-container">
+          <div class="avatar-circle">
+            <img id="avatar-image" src="{{ avatar_url }}" alt="Аватарка пользователя">
+          </div>
+          {% if current_username == profile_username %}
+          <div class="avatar-action">
+            <div class="button-container">
+              <a href="#" id="change-avatar-link" onclick="openFileInput()" class="btn btn-primary">Изменить аватарку</a>
+              <input type="file" id="avatar-input" accept="image/*" style="display: none;">
+            </div>
+          </div>
+          <div class="avatar-action">
+            <div class="button-container">
+              <button type="button" class="btn btn-danger" id="delete-avatar-btn">Удалить аватарку</button>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        <div class="card-body">
+          <!-- Ваш код для изменения аватарки -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <script>
+      // Функция для открытия окна выбора файла при нажатии на ссылку
+      function openFileInput() {
+        var fileInput = document.getElementById("avatar-input");
+        fileInput.click();
+      }
+    
+      // Функция для отправки файла на сервер и обновления изображения аватарки
+      function uploadAvatar() {
+        var fileInput = document.getElementById("avatar-input");
+        var file = fileInput.files[0];
+        var formData = new FormData();
+        formData.append("file", file);
+    
+        var xhr = new XMLHttpRequest();
+        xhr.open("PUT", "/users/{{ username }}/avatar", true);
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+            // Обновляем изображение аватарки после успешной загрузки
+            var avatarImage = document.getElementById("avatar-image");
+            avatarImage.src = URL.createObjectURL(file);
+          }
+        };
+        xhr.send(formData);
+      }
+    
+      // Обработчик события изменения файла
+      var fileInput = document.getElementById("avatar-input");
+      fileInput.addEventListener("change", uploadAvatar);
+    
+      // Обработчик события нажатия на ссылку
+      var changeAvatarLink = document.getElementById("change-avatar-link");
+      changeAvatarLink.addEventListener("click", openFileInput);
+    </script>  
+    <script>
+      // ...
+    
+      // Функция для удаления аватарки
+      function deleteAvatar() {
+        var xhr = new XMLHttpRequest();
+        xhr.open("DELETE", "/users/{{ username }}/avatar", true);
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+            // Удаляем изображение аватарки после успешного удаления
+            var avatarImage = document.getElementById("avatar-image");
+            avatarImage.src = "";  // Очищаем изображение аватарки
+          }
+        };
+        xhr.send();
+      }
+    
+      // Обработчик события нажатия на кнопку удаления аватарки
+      var deleteAvatarBtn = document.getElementById("delete-avatar-btn");
+      deleteAvatarBtn.addEventListener("click", deleteAvatar);
+    </script>    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  {% endblock %}

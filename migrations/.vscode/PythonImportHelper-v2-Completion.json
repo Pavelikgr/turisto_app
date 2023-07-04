@@ -1,0 +1,2257 @@
+[
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "postgresql",
+        "importPath": "sqlalchemy.dialects",
+        "description": "sqlalchemy.dialects",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects",
+        "documentation": {}
+    },
+    {
+        "label": "postgresql",
+        "importPath": "sqlalchemy.dialects",
+        "description": "sqlalchemy.dialects",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "src.auth.models",
+        "description": "src.auth.models",
+        "isExtraImport": true,
+        "detail": "src.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASS",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST_TEST",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME_TEST",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASS_TEST",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT_TEST",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER_TEST",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "importPath": "src.database",
+        "description": "src.database",
+        "isExtraImport": true,
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "src.database",
+        "description": "src.database",
+        "isExtraImport": true,
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "src.operations.models",
+        "description": "src.operations.models",
+        "isExtraImport": true,
+        "detail": "src.operations.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "src.chat.models",
+        "description": "src.chat.models",
+        "isExtraImport": true,
+        "detail": "src.chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPIUsers",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerIDMixin",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationBackend",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "CookieTransport",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "JWTStrategy",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_manager",
+        "importPath": "auth.manager",
+        "description": "auth.manager",
+        "isExtraImport": true,
+        "detail": "auth.manager",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "auth.models",
+        "description": "auth.models",
+        "isExtraImport": true,
+        "detail": "auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "auth.models",
+        "description": "auth.models",
+        "isExtraImport": true,
+        "detail": "auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "auth.models",
+        "description": "auth.models",
+        "isExtraImport": true,
+        "detail": "auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "role",
+        "importPath": "auth.models",
+        "description": "auth.models",
+        "isExtraImport": true,
+        "detail": "auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_AUTH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_AUTH",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_PASSWORD",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_USER",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASS",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocket",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketDisconnect",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_db",
+        "importPath": "auth.utils",
+        "description": "auth.utils",
+        "isExtraImport": true,
+        "detail": "auth.utils",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyBaseUserTable",
+        "importPath": "fastapi_users_db_sqlalchemy",
+        "description": "fastapi_users_db_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "fastapi_users_db_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyUserDatabase",
+        "importPath": "fastapi_users_db_sqlalchemy",
+        "description": "fastapi_users_db_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "fastapi_users_db_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_async_session",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_async_session",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_async_session",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_async_session",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Jinja2Templates",
+        "importPath": "fastapi.templating",
+        "description": "fastapi.templating",
+        "isExtraImport": true,
+        "detail": "fastapi.templating",
+        "documentation": {}
+    },
+    {
+        "label": "Jinja2Templates",
+        "importPath": "fastapi.templating",
+        "description": "fastapi.templating",
+        "isExtraImport": true,
+        "detail": "fastapi.templating",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Messages",
+        "importPath": "chat.models",
+        "description": "chat.models",
+        "isExtraImport": true,
+        "detail": "chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesModel",
+        "importPath": "chat.schemas",
+        "description": "chat.schemas",
+        "isExtraImport": true,
+        "detail": "chat.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "fastapi_cache.decorator",
+        "description": "fastapi_cache.decorator",
+        "isExtraImport": true,
+        "detail": "fastapi_cache.decorator",
+        "documentation": {}
+    },
+    {
+        "label": "operation",
+        "importPath": "operations.models",
+        "description": "operations.models",
+        "isExtraImport": true,
+        "detail": "operations.models",
+        "documentation": {}
+    },
+    {
+        "label": "OperationCreate",
+        "importPath": "operations.schemas",
+        "description": "operations.schemas",
+        "isExtraImport": true,
+        "detail": "operations.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_specific_operations",
+        "importPath": "operations.router",
+        "description": "operations.router",
+        "isExtraImport": true,
+        "detail": "operations.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "operations.router",
+        "description": "operations.router",
+        "isExtraImport": true,
+        "detail": "operations.router",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "auth.base_config",
+        "description": "auth.base_config",
+        "isExtraImport": true,
+        "detail": "auth.base_config",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "email.message",
+        "description": "email.message",
+        "isExtraImport": true,
+        "detail": "email.message",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "NullPool",
+        "importPath": "sqlalchemy.pool",
+        "description": "sqlalchemy.pool",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.pool",
+        "documentation": {}
+    },
+    {
+        "label": "NullPool",
+        "importPath": "sqlalchemy.pool",
+        "description": "sqlalchemy.pool",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.pool",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPICache",
+        "importPath": "fastapi_cache",
+        "description": "fastapi_cache",
+        "isExtraImport": true,
+        "detail": "fastapi_cache",
+        "documentation": {}
+    },
+    {
+        "label": "RedisBackend",
+        "importPath": "fastapi_cache.backends.redis",
+        "description": "fastapi_cache.backends.redis",
+        "isExtraImport": true,
+        "detail": "fastapi_cache.backends.redis",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "importPath": "redis",
+        "description": "redis",
+        "isExtraImport": true,
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "tasks.router",
+        "description": "tasks.router",
+        "isExtraImport": true,
+        "detail": "tasks.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "pages.router",
+        "description": "pages.router",
+        "isExtraImport": true,
+        "detail": "pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "auth.router",
+        "description": "auth.router",
+        "isExtraImport": true,
+        "detail": "auth.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "chat.router",
+        "description": "chat.router",
+        "isExtraImport": true,
+        "detail": "chat.router",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncClient",
+        "importPath": "httpx",
+        "description": "httpx",
+        "isExtraImport": true,
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncClient",
+        "importPath": "httpx",
+        "description": "httpx",
+        "isExtraImport": true,
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "importPath": "src",
+        "description": "src",
+        "isExtraImport": true,
+        "detail": "src",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "src.main",
+        "description": "src.main",
+        "isExtraImport": true,
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "importPath": "conftest",
+        "description": "conftest",
+        "isExtraImport": true,
+        "detail": "conftest",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "importPath": "conftest",
+        "description": "conftest",
+        "isExtraImport": true,
+        "detail": "conftest",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update",
+        "description": "migrations.versions.2023-06-26_update",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('operation',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('quantity', sa.String(), nullable=True),\n    sa.Column('figi', sa.String(), nullable=True),\n    sa.Column('instrument_type', sa.String(), nullable=True),\n    sa.Column('date', sa.TIMESTAMP(), nullable=True),\n    sa.Column('type', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "migrations.versions.2023-06-26_update",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update",
+        "description": "migrations.versions.2023-06-26_update",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    op.drop_table('role')\n    op.drop_table('operation')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.2023-06-26_update",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update",
+        "description": "migrations.versions.2023-06-26_update",
+        "peekOfCode": "revision = '4e3996f65649'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('operation',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('quantity', sa.String(), nullable=True),\n    sa.Column('figi', sa.String(), nullable=True),",
+        "detail": "migrations.versions.2023-06-26_update",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update",
+        "description": "migrations.versions.2023-06-26_update",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('operation',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('quantity', sa.String(), nullable=True),\n    sa.Column('figi', sa.String(), nullable=True),\n    sa.Column('instrument_type', sa.String(), nullable=True),",
+        "detail": "migrations.versions.2023-06-26_update",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update",
+        "description": "migrations.versions.2023-06-26_update",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('operation',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('quantity', sa.String(), nullable=True),\n    sa.Column('figi', sa.String(), nullable=True),\n    sa.Column('instrument_type', sa.String(), nullable=True),\n    sa.Column('date', sa.TIMESTAMP(), nullable=True),",
+        "detail": "migrations.versions.2023-06-26_update",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update",
+        "description": "migrations.versions.2023-06-26_update",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('operation',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('quantity', sa.String(), nullable=True),\n    sa.Column('figi', sa.String(), nullable=True),\n    sa.Column('instrument_type', sa.String(), nullable=True),\n    sa.Column('date', sa.TIMESTAMP(), nullable=True),\n    sa.Column('type', sa.String(), nullable=True),",
+        "detail": "migrations.versions.2023-06-26_update",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update2",
+        "description": "migrations.versions.2023-06-26_update2",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('email', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('username', sa.VARCHAR(), autoincrement=False, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update2",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update2",
+        "description": "migrations.versions.2023-06-26_update2",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('email', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('username', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('registered_at', postgresql.TIMESTAMP(), autoincrement=False, nullable=True),\n    sa.Column('role_id', sa.INTEGER(), autoincrement=False, nullable=True),\n    sa.Column('hashed_password', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('is_active', sa.BOOLEAN(), autoincrement=False, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update2",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update2",
+        "description": "migrations.versions.2023-06-26_update2",
+        "peekOfCode": "revision = '7d1dd8e9d35f'\ndown_revision = '4e3996f65649'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "migrations.versions.2023-06-26_update2",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update2",
+        "description": "migrations.versions.2023-06-26_update2",
+        "peekOfCode": "down_revision = '4e3996f65649'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',",
+        "detail": "migrations.versions.2023-06-26_update2",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update2",
+        "description": "migrations.versions.2023-06-26_update2",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update2",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update2",
+        "description": "migrations.versions.2023-06-26_update2",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('email', sa.VARCHAR(), autoincrement=False, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update2",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update3",
+        "description": "migrations.versions.2023-06-26_update3",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('username', sa.String(), nullable=False),\n    sa.Column('registered_at', sa.TIMESTAMP(), nullable=True),\n    sa.Column('role_id', sa.Integer(), nullable=True),\n    sa.Column('hashed_password', sa.String(), nullable=False),\n    sa.Column('is_active', sa.Boolean(), nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update3",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update3",
+        "description": "migrations.versions.2023-06-26_update3",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.2023-06-26_update3",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update3",
+        "description": "migrations.versions.2023-06-26_update3",
+        "peekOfCode": "revision = '3f88b57a9086'\ndown_revision = '7d1dd8e9d35f'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('username', sa.String(), nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update3",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update3",
+        "description": "migrations.versions.2023-06-26_update3",
+        "peekOfCode": "down_revision = '7d1dd8e9d35f'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('username', sa.String(), nullable=False),\n    sa.Column('registered_at', sa.TIMESTAMP(), nullable=True),",
+        "detail": "migrations.versions.2023-06-26_update3",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update3",
+        "description": "migrations.versions.2023-06-26_update3",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('username', sa.String(), nullable=False),\n    sa.Column('registered_at', sa.TIMESTAMP(), nullable=True),\n    sa.Column('role_id', sa.Integer(), nullable=True),",
+        "detail": "migrations.versions.2023-06-26_update3",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update3",
+        "description": "migrations.versions.2023-06-26_update3",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('username', sa.String(), nullable=False),\n    sa.Column('registered_at', sa.TIMESTAMP(), nullable=True),\n    sa.Column('role_id', sa.Integer(), nullable=True),\n    sa.Column('hashed_password', sa.String(), nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update3",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update4",
+        "description": "migrations.versions.2023-06-26_update4",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('email', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('username', sa.VARCHAR(), autoincrement=False, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update4",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update4",
+        "description": "migrations.versions.2023-06-26_update4",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('email', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('username', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('registered_at', postgresql.TIMESTAMP(), autoincrement=False, nullable=True),\n    sa.Column('role_id', sa.INTEGER(), autoincrement=False, nullable=True),\n    sa.Column('hashed_password', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('is_active', sa.BOOLEAN(), autoincrement=False, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update4",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update4",
+        "description": "migrations.versions.2023-06-26_update4",
+        "peekOfCode": "revision = '9cfbd56baf92'\ndown_revision = '3f88b57a9086'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "migrations.versions.2023-06-26_update4",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update4",
+        "description": "migrations.versions.2023-06-26_update4",
+        "peekOfCode": "down_revision = '3f88b57a9086'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',",
+        "detail": "migrations.versions.2023-06-26_update4",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update4",
+        "description": "migrations.versions.2023-06-26_update4",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update4",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update4",
+        "description": "migrations.versions.2023-06-26_update4",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('user',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('email', sa.VARCHAR(), autoincrement=False, nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update4",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update5",
+        "description": "migrations.versions.2023-06-26_update5",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.2023-06-26_update5",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update5",
+        "description": "migrations.versions.2023-06-26_update5",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.2023-06-26_update5",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update5",
+        "description": "migrations.versions.2023-06-26_update5",
+        "peekOfCode": "revision = '0afef6837777'\ndown_revision = '9cfbd56baf92'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "migrations.versions.2023-06-26_update5",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update5",
+        "description": "migrations.versions.2023-06-26_update5",
+        "peekOfCode": "down_revision = '9cfbd56baf92'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass",
+        "detail": "migrations.versions.2023-06-26_update5",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update5",
+        "description": "migrations.versions.2023-06-26_update5",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.2023-06-26_update5",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update5",
+        "description": "migrations.versions.2023-06-26_update5",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.2023-06-26_update5",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update6",
+        "description": "migrations.versions.2023-06-26_update6",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('messages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('message', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update6",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.2023-06-26_update6",
+        "description": "migrations.versions.2023-06-26_update6",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    op.drop_table('messages')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.2023-06-26_update6",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update6",
+        "description": "migrations.versions.2023-06-26_update6",
+        "peekOfCode": "revision = '9bf4cdfefc97'\ndown_revision = '0afef6837777'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('messages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('message', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "migrations.versions.2023-06-26_update6",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update6",
+        "description": "migrations.versions.2023-06-26_update6",
+        "peekOfCode": "down_revision = '0afef6837777'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('messages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('message', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "migrations.versions.2023-06-26_update6",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update6",
+        "description": "migrations.versions.2023-06-26_update6",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('messages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('message', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('user',",
+        "detail": "migrations.versions.2023-06-26_update6",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.2023-06-26_update6",
+        "description": "migrations.versions.2023-06-26_update6",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('messages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('message', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),",
+        "detail": "migrations.versions.2023-06-26_update6",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():\n        context.run_migrations()",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(\n            connection=connection, target_metadata=target_metadata\n        )",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\nsection = config.config_ini_section\nconfig.set_section_option(section, \"DB_HOST\", DB_HOST)\nconfig.set_section_option(section, \"DB_PORT\", DB_PORT)\nconfig.set_section_option(section, \"DB_USER\", DB_USER)\nconfig.set_section_option(section, \"DB_NAME\", DB_NAME)\nconfig.set_section_option(section, \"DB_PASS\", DB_PASS)\n# Настраиваем логирование\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "section",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "section = config.config_ini_section\nconfig.set_section_option(section, \"DB_HOST\", DB_HOST)\nconfig.set_section_option(section, \"DB_PORT\", DB_PORT)\nconfig.set_section_option(section, \"DB_USER\", DB_USER)\nconfig.set_section_option(section, \"DB_NAME\", DB_NAME)\nconfig.set_section_option(section, \"DB_PASS\", DB_PASS)\n# Настраиваем логирование\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# Определяем метаданные целевой базы данных",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_metadata = [metadata, Base.metadata]\n# Определяем функцию для выполнения миграций в режиме \"offline\"\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_strategy",
+        "kind": 2,
+        "importPath": "src.auth.base_config",
+        "description": "src.auth.base_config",
+        "peekOfCode": "def get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(secret=SECRET_AUTH, lifetime_seconds=3600)\n# Создаем объект AuthenticationBackend для аутентификации пользователей\nauth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=cookie_transport,\n    get_strategy=get_jwt_strategy,\n)\n# Создаем экземпляр FastAPIUsers, который обеспечивает CRUD-операции для пользователей\nfastapi_users = FastAPIUsers[User, int](",
+        "detail": "src.auth.base_config",
+        "documentation": {}
+    },
+    {
+        "label": "cookie_transport",
+        "kind": 5,
+        "importPath": "src.auth.base_config",
+        "description": "src.auth.base_config",
+        "peekOfCode": "cookie_transport = CookieTransport( cookie_max_age=3600)\n# Функция для получения стратегии JWT\ndef get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(secret=SECRET_AUTH, lifetime_seconds=3600)\n# Создаем объект AuthenticationBackend для аутентификации пользователей\nauth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=cookie_transport,\n    get_strategy=get_jwt_strategy,\n)",
+        "detail": "src.auth.base_config",
+        "documentation": {}
+    },
+    {
+        "label": "auth_backend",
+        "kind": 5,
+        "importPath": "src.auth.base_config",
+        "description": "src.auth.base_config",
+        "peekOfCode": "auth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=cookie_transport,\n    get_strategy=get_jwt_strategy,\n)\n# Создаем экземпляр FastAPIUsers, который обеспечивает CRUD-операции для пользователей\nfastapi_users = FastAPIUsers[User, int](\n    get_user_manager,\n    [auth_backend],\n)",
+        "detail": "src.auth.base_config",
+        "documentation": {}
+    },
+    {
+        "label": "fastapi_users",
+        "kind": 5,
+        "importPath": "src.auth.base_config",
+        "description": "src.auth.base_config",
+        "peekOfCode": "fastapi_users = FastAPIUsers[User, int](\n    get_user_manager,\n    [auth_backend],\n)\n# Получаем текущего пользователя с помощью метода current_user() из fastapi_users\ncurrent_user = fastapi_users.current_user()",
+        "detail": "src.auth.base_config",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "kind": 5,
+        "importPath": "src.auth.base_config",
+        "description": "src.auth.base_config",
+        "peekOfCode": "current_user = fastapi_users.current_user()",
+        "detail": "src.auth.base_config",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "src.auth.manager",
+        "description": "src.auth.manager",
+        "peekOfCode": "class UserManager(IntegerIDMixin, BaseUserManager[User, int]):\n    # Устанавливаем секретный ключ для сброса пароля и подтверждения пользователя\n    reset_password_token_secret = SECRET_AUTH\n    verification_token_secret = SECRET_AUTH\n    async def on_after_register(self, user: User, request: Optional[Request] = None):\n        # Выполняем действия после регистрации пользователя, например, выводим информацию о пользователе\n        print(f\"User {user.id} has registered.\")\n    async def create(\n        self,\n        user_create: schemas.UC,",
+        "detail": "src.auth.manager",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "src.auth.models",
+        "description": "src.auth.models",
+        "peekOfCode": "class User(SQLAlchemyBaseUserTable[int], Base):\n    __tablename__ = \"user\"\n    id = Column(Integer, primary_key=True)\n    email = Column(String, nullable=False)\n    username = Column(String, nullable=False)\n    registered_at = Column(TIMESTAMP, default=datetime.utcnow)\n    role_id = Column(Integer, ForeignKey(role.c.id))\n    hashed_password: str = Column(String(length=1024), nullable=False)\n    is_active: bool = Column(Boolean, default=True, nullable=False)\n    is_superuser: bool = Column(Boolean, default=False, nullable=False)",
+        "detail": "src.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "role",
+        "kind": 5,
+        "importPath": "src.auth.models",
+        "description": "src.auth.models",
+        "peekOfCode": "role = Table(\n    \"role\",\n    metadata,\n    Column(\"id\", Integer, primary_key=True),\n    Column(\"name\", String, nullable=False),\n    Column(\"permissions\", JSON),\n)\nclass User(SQLAlchemyBaseUserTable[int], Base):\n    __tablename__ = \"user\"\n    id = Column(Integer, primary_key=True)",
+        "detail": "src.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "src.auth.router",
+        "description": "src.auth.router",
+        "peekOfCode": "def register(request: Request):\n    return templates.TemplateResponse(\"register.html\", {\"request\": request})\n@router.post(\"/auth/register\")\nasync def register_user(user: UserCreate):\n    await fastapi_users.create_user(user)\n    return {\"message\": \"Пользователь успешно зарегистрирован\"}\nrouter.include_router(\n    fastapi_users.get_auth_router(auth_backend),\n    tags=[\"Auth\"],\n)",
+        "detail": "src.auth.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.auth.router",
+        "description": "src.auth.router",
+        "peekOfCode": "router = APIRouter(\n    tags=[\"Auth\"],\n)\ntemplates = Jinja2Templates(directory=\"templates\")\n@router.get(\"/register\", response_class=HTMLResponse)\ndef register(request: Request):\n    return templates.TemplateResponse(\"register.html\", {\"request\": request})\n@router.post(\"/auth/register\")\nasync def register_user(user: UserCreate):\n    await fastapi_users.create_user(user)",
+        "detail": "src.auth.router",
+        "documentation": {}
+    },
+    {
+        "label": "templates",
+        "kind": 5,
+        "importPath": "src.auth.router",
+        "description": "src.auth.router",
+        "peekOfCode": "templates = Jinja2Templates(directory=\"templates\")\n@router.get(\"/register\", response_class=HTMLResponse)\ndef register(request: Request):\n    return templates.TemplateResponse(\"register.html\", {\"request\": request})\n@router.post(\"/auth/register\")\nasync def register_user(user: UserCreate):\n    await fastapi_users.create_user(user)\n    return {\"message\": \"Пользователь успешно зарегистрирован\"}\nrouter.include_router(\n    fastapi_users.get_auth_router(auth_backend),",
+        "detail": "src.auth.router",
+        "documentation": {}
+    },
+    {
+        "label": "UserRead",
+        "kind": 6,
+        "importPath": "src.auth.schemas",
+        "description": "src.auth.schemas",
+        "peekOfCode": "class UserRead(schemas.BaseUser[int]):\n    # Определяем класс UserRead, основанный на BaseUser с типом идентификатора int\n    id: int\n    email: str\n    username: str\n    role_id: int\n    is_active: bool = True\n    is_superuser: bool = False\n    is_verified: bool = False\n    class Config:",
+        "detail": "src.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "src.auth.schemas",
+        "description": "src.auth.schemas",
+        "peekOfCode": "class UserCreate(schemas.BaseUserCreate):\n    # Определяем класс UserCreate, основанный на BaseUserCreate\n    username: str\n    email: str\n    password: str\n    role_id: int\n    is_active: Optional[bool] = True\n    is_superuser: Optional[bool] = False\n    is_verified: Optional[bool] = False",
+        "detail": "src.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Messages",
+        "kind": 6,
+        "importPath": "src.chat.models",
+        "description": "src.chat.models",
+        "peekOfCode": "class Messages(Base):\n    __tablename__ = \"messages\"\n    id = Column(Integer, primary_key=True)\n    message = Column(String)",
+        "detail": "src.chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "kind": 6,
+        "importPath": "src.chat.router",
+        "description": "src.chat.router",
+        "peekOfCode": "class ConnectionManager:\n    def __init__(self):\n        self.active_connections: List[WebSocket] = []\n    async def connect(self, websocket: WebSocket):\n        await websocket.accept()\n        self.active_connections.append(websocket)\n    def disconnect(self, websocket: WebSocket):\n        self.active_connections.remove(websocket)\n    async def send_personal_message(self, message: str, websocket: WebSocket):\n        await websocket.send_text(message)",
+        "detail": "src.chat.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.chat.router",
+        "description": "src.chat.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/chat\",\n    tags=[\"Chat\"]\n)\nclass ConnectionManager:\n    def __init__(self):\n        self.active_connections: List[WebSocket] = []\n    async def connect(self, websocket: WebSocket):\n        await websocket.accept()\n        self.active_connections.append(websocket)",
+        "detail": "src.chat.router",
+        "documentation": {}
+    },
+    {
+        "label": "manager",
+        "kind": 5,
+        "importPath": "src.chat.router",
+        "description": "src.chat.router",
+        "peekOfCode": "manager = ConnectionManager()\n@router.get(\"/last_messages\")\nasync def get_last_messages(\n        session: AsyncSession = Depends(get_async_session),\n) -> List[MessagesModel]:\n    query = select(Messages).order_by(Messages.id.desc()).limit(5)\n    messages = await session.execute(query)\n    return messages.scalars().all()\n@router.websocket(\"/ws/{client_id}\")\nasync def websocket_endpoint(websocket: WebSocket, client_id: int):",
+        "detail": "src.chat.router",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesModel",
+        "kind": 6,
+        "importPath": "src.chat.schemas",
+        "description": "src.chat.schemas",
+        "peekOfCode": "class MessagesModel(BaseModel):\n    id: int\n    message: str\n    class Config:\n        orm_mode = True",
+        "detail": "src.chat.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "operation",
+        "kind": 5,
+        "importPath": "src.operations.models",
+        "description": "src.operations.models",
+        "peekOfCode": "operation = Table(\n    \"operation\",\n    metadata,\n    Column(\"id\", Integer, primary_key=True),\n    Column(\"quantity\", String),\n    Column(\"figi\", String),\n    Column(\"instrument_type\", String, nullable=True),\n    Column(\"date\", TIMESTAMP),\n    Column(\"type\", String),\n)",
+        "detail": "src.operations.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_long_op",
+        "kind": 2,
+        "importPath": "src.operations.router",
+        "description": "src.operations.router",
+        "peekOfCode": "def get_long_op():\n    time.sleep(2)\n    return \"Много много данных, которые вычислялись сто лет\"\n# Определяем маршрут для получения определенных операций\n@router.get(\"\")\nasync def get_specific_operations(\n    operation_type: str,\n    session: AsyncSession = Depends(get_async_session),\n):\n    try:",
+        "detail": "src.operations.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.operations.router",
+        "description": "src.operations.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/operations\",\n    tags=[\"Operation\"]\n)\n# Определяем маршрут для долгой операции с кэшированием\n@router.get(\"/long_operation\")\n@cache(expire=30)\ndef get_long_op():\n    time.sleep(2)\n    return \"Много много данных, которые вычислялись сто лет\"",
+        "detail": "src.operations.router",
+        "documentation": {}
+    },
+    {
+        "label": "OperationCreate",
+        "kind": 6,
+        "importPath": "src.operations.schemas",
+        "description": "src.operations.schemas",
+        "peekOfCode": "class OperationCreate(BaseModel):\n    # Определяем модель данных OperationCreate на основе BaseModel из Pydantic\n    id: int\n    # Поле id типа int, обязательное\n    quantity: str\n    # Поле quantity типа str, обязательное\n    figi: str\n    # Поле figi типа str, обязательное\n    instrument_type: str\n    # Поле instrument_type типа str, обязательное",
+        "detail": "src.operations.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_base_page",
+        "kind": 2,
+        "importPath": "src.pages.router",
+        "description": "src.pages.router",
+        "peekOfCode": "def get_base_page(request: Request):\n    return templates.TemplateResponse(\"index.html\", {\n        \"request\": request,\n        \"year\": datetime.datetime.now().year       \n        })\n@router.get(\"/search/{operation_type}\")\ndef get_search_page(request: Request, operations=Depends(get_specific_operations)):\n    return templates.TemplateResponse(\n        \"search.html\", {\n        \"request\": request, ",
+        "detail": "src.pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "get_search_page",
+        "kind": 2,
+        "importPath": "src.pages.router",
+        "description": "src.pages.router",
+        "peekOfCode": "def get_search_page(request: Request, operations=Depends(get_specific_operations)):\n    return templates.TemplateResponse(\n        \"search.html\", {\n        \"request\": request, \n        \"operations\": operations[\"data\"]\n        }\n        )",
+        "detail": "src.pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.pages.router",
+        "description": "src.pages.router",
+        "peekOfCode": "router = APIRouter(\n    tags=[\"Pages\"]\n)\ntemplates = Jinja2Templates(directory=\"templates\")\n@router.get(\"/\")\ndef get_base_page(request: Request):\n    return templates.TemplateResponse(\"index.html\", {\n        \"request\": request,\n        \"year\": datetime.datetime.now().year       \n        })",
+        "detail": "src.pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "templates",
+        "kind": 5,
+        "importPath": "src.pages.router",
+        "description": "src.pages.router",
+        "peekOfCode": "templates = Jinja2Templates(directory=\"templates\")\n@router.get(\"/\")\ndef get_base_page(request: Request):\n    return templates.TemplateResponse(\"index.html\", {\n        \"request\": request,\n        \"year\": datetime.datetime.now().year       \n        })\n@router.get(\"/search/{operation_type}\")\ndef get_search_page(request: Request, operations=Depends(get_specific_operations)):\n    return templates.TemplateResponse(",
+        "detail": "src.pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "get_dashboard_report",
+        "kind": 2,
+        "importPath": "src.tasks.router",
+        "description": "src.tasks.router",
+        "peekOfCode": "def get_dashboard_report(background_tasks: BackgroundTasks, user=Depends(current_user)):\n    # 1400 ms - Клиент ждет\n    send_email_report_dashboard(user.username)\n    # 500 ms - Задача выполняется на фоне FastAPI в event loop'е или в другом треде\n    background_tasks.add_task(send_email_report_dashboard, user.username)\n    # 600 ms - Задача выполняется воркером Celery в отдельном процессе\n    send_email_report_dashboard.delay(user.username)\n    return {\n        \"status\": 200,\n        \"data\": \"Письмо отправлено\",",
+        "detail": "src.tasks.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.tasks.router",
+        "description": "src.tasks.router",
+        "peekOfCode": "router = APIRouter(prefix=\"/report\")\n@router.get(\"/dashboard\")\ndef get_dashboard_report(background_tasks: BackgroundTasks, user=Depends(current_user)):\n    # 1400 ms - Клиент ждет\n    send_email_report_dashboard(user.username)\n    # 500 ms - Задача выполняется на фоне FastAPI в event loop'е или в другом треде\n    background_tasks.add_task(send_email_report_dashboard, user.username)\n    # 600 ms - Задача выполняется воркером Celery в отдельном процессе\n    send_email_report_dashboard.delay(user.username)\n    return {",
+        "detail": "src.tasks.router",
+        "documentation": {}
+    },
+    {
+        "label": "get_email_template_dashboard",
+        "kind": 2,
+        "importPath": "src.tasks.tasks",
+        "description": "src.tasks.tasks",
+        "peekOfCode": "def get_email_template_dashboard(username: str):\n    email = EmailMessage()\n    email['Subject'] = 'Натрейдил Отчет Дашборд'\n    email['From'] = SMTP_USER\n    email['To'] = SMTP_USER\n    email.set_content(\n        '<div>'\n        f'<h1 style=\"color: red;\">Здравствуйте, {username}, а вот и ваш отчет. Зацените 😊</h1>'\n        '<img src=\"https://static.vecteezy.com/system/resources/previews/008/295/031/original/custom-relationship'\n        '-management-dashboard-ui-design-template-suitable-designing-application-for-android-and-ios-clean-style-app'",
+        "detail": "src.tasks.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "send_email_report_dashboard",
+        "kind": 2,
+        "importPath": "src.tasks.tasks",
+        "description": "src.tasks.tasks",
+        "peekOfCode": "def send_email_report_dashboard(username: str):\n    email = get_email_template_dashboard(username)\n    with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) as server:\n        server.login(SMTP_USER, SMTP_PASSWORD)\n        server.send_message(email)",
+        "detail": "src.tasks.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_HOST",
+        "kind": 5,
+        "importPath": "src.tasks.tasks",
+        "description": "src.tasks.tasks",
+        "peekOfCode": "SMTP_HOST = \"smtp.gmail.com\"\nSMTP_PORT = 465\ncelery = Celery('tasks', broker='redis://localhost:6379')\ndef get_email_template_dashboard(username: str):\n    email = EmailMessage()\n    email['Subject'] = 'Натрейдил Отчет Дашборд'\n    email['From'] = SMTP_USER\n    email['To'] = SMTP_USER\n    email.set_content(\n        '<div>'",
+        "detail": "src.tasks.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_PORT",
+        "kind": 5,
+        "importPath": "src.tasks.tasks",
+        "description": "src.tasks.tasks",
+        "peekOfCode": "SMTP_PORT = 465\ncelery = Celery('tasks', broker='redis://localhost:6379')\ndef get_email_template_dashboard(username: str):\n    email = EmailMessage()\n    email['Subject'] = 'Натрейдил Отчет Дашборд'\n    email['From'] = SMTP_USER\n    email['To'] = SMTP_USER\n    email.set_content(\n        '<div>'\n        f'<h1 style=\"color: red;\">Здравствуйте, {username}, а вот и ваш отчет. Зацените 😊</h1>'",
+        "detail": "src.tasks.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "celery",
+        "kind": 5,
+        "importPath": "src.tasks.tasks",
+        "description": "src.tasks.tasks",
+        "peekOfCode": "celery = Celery('tasks', broker='redis://localhost:6379')\ndef get_email_template_dashboard(username: str):\n    email = EmailMessage()\n    email['Subject'] = 'Натрейдил Отчет Дашборд'\n    email['From'] = SMTP_USER\n    email['To'] = SMTP_USER\n    email.set_content(\n        '<div>'\n        f'<h1 style=\"color: red;\">Здравствуйте, {username}, а вот и ваш отчет. Зацените 😊</h1>'\n        '<img src=\"https://static.vecteezy.com/system/resources/previews/008/295/031/original/custom-relationship'",
+        "detail": "src.tasks.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_HOST = os.environ.get(\"DB_HOST\")\nDB_PORT = os.environ.get(\"DB_PORT\")\nDB_NAME = os.environ.get(\"DB_NAME\")\nDB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDB_HOST_TEST = os.environ.get(\"DB_HOST_TEST\")\nDB_PORT_TEST = os.environ.get(\"DB_PORT_TEST\")\nDB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_PORT = os.environ.get(\"DB_PORT\")\nDB_NAME = os.environ.get(\"DB_NAME\")\nDB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDB_HOST_TEST = os.environ.get(\"DB_HOST_TEST\")\nDB_PORT_TEST = os.environ.get(\"DB_PORT_TEST\")\nDB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_NAME = os.environ.get(\"DB_NAME\")\nDB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDB_HOST_TEST = os.environ.get(\"DB_HOST_TEST\")\nDB_PORT_TEST = os.environ.get(\"DB_PORT_TEST\")\nDB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDB_HOST_TEST = os.environ.get(\"DB_HOST_TEST\")\nDB_PORT_TEST = os.environ.get(\"DB_PORT_TEST\")\nDB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASS",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_PASS = os.environ.get(\"DB_PASS\")\nDB_HOST_TEST = os.environ.get(\"DB_HOST_TEST\")\nDB_PORT_TEST = os.environ.get(\"DB_PORT_TEST\")\nDB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST_TEST",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_HOST_TEST = os.environ.get(\"DB_HOST_TEST\")\nDB_PORT_TEST = os.environ.get(\"DB_PORT_TEST\")\nDB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT_TEST",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_PORT_TEST = os.environ.get(\"DB_PORT_TEST\")\nDB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME_TEST",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_NAME_TEST = os.environ.get(\"DB_NAME_TEST\")\nDB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER_TEST",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_USER_TEST = os.environ.get(\"DB_USER_TEST\")\nDB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASS_TEST",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DB_PASS_TEST = os.environ.get(\"DB_PASS_TEST\")\nSECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_AUTH",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "SECRET_AUTH = os.environ.get(\"SECRET_AUTH\")\nSMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_USER",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "SMTP_USER = os.environ.get(\"SMTP_USER\")\nSMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_PASSWORD",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "SMTP_PASSWORD = os.environ.get(\"SMTP_PASSWORD\")",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "DATABASE_URL = f\"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\nBase = declarative_base()\nmetadata = MetaData()\nengine = create_async_engine(DATABASE_URL, poolclass=NullPool)\nasync_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "Base = declarative_base()\nmetadata = MetaData()\nengine = create_async_engine(DATABASE_URL, poolclass=NullPool)\nasync_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "metadata = MetaData()\nengine = create_async_engine(DATABASE_URL, poolclass=NullPool)\nasync_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "engine = create_async_engine(DATABASE_URL, poolclass=NullPool)\nasync_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "async_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Travel App\"\n)\napp.mount(\"/static\", StaticFiles(directory=\"static\"), name=\"static\")\napp.include_router(router_operation)\napp.include_router(router_tasks)\napp.include_router(router_pages)\napp.include_router(router_auth)\norigins = [\n    \"http://localhost:8000\",",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "origins = [\n    \"http://localhost:8000\",\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"GET\", \"POST\", \"OPTIONS\", \"DELETE\", \"PATCH\", \"PUT\"],\n    allow_headers=[\"Content-Type\", \"Set-Cookie\", \"Access-Control-Allow-Headers\", \"Access-Control-Allow-Origin\",\n                   \"Authorization\"],",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "event_loop",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def event_loop(request):\n    loop = asyncio.get_event_loop_policy().new_event_loop()\n    yield loop\n    loop.close()\n# Создаем клиент для тестирования с использованием TestClient\nclient = TestClient(app)\n# Фикстура для создания асинхронного клиента HTTPX\n@pytest.fixture(scope=\"session\")\nasync def ac() -> AsyncGenerator[AsyncClient, None]:\n    async with AsyncClient(app=app, base_url=\"http://test\") as ac:",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL_TEST",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "DATABASE_URL_TEST = f\"postgresql+asyncpg://{DB_USER_TEST}:{DB_PASS_TEST}@{DB_HOST_TEST}:{DB_PORT_TEST}/{DB_NAME_TEST}\"\n# Создаем асинхронный движок и фабрику сессий для тестовой базы данных\nengine_test = create_async_engine(DATABASE_URL_TEST, poolclass=NullPool)\nasync_session_maker = sessionmaker(engine_test, class_=AsyncSession, expire_on_commit=False)\n# Привязываем метаданные к тестовому движку\nmetadata.bind = engine_test\n# Переопределяем зависимость get_async_session для использования тестовой базы данных\nasync def override_get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "engine_test",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "engine_test = create_async_engine(DATABASE_URL_TEST, poolclass=NullPool)\nasync_session_maker = sessionmaker(engine_test, class_=AsyncSession, expire_on_commit=False)\n# Привязываем метаданные к тестовому движку\nmetadata.bind = engine_test\n# Переопределяем зависимость get_async_session для использования тестовой базы данных\nasync def override_get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session\n# Заменяем зависимость get_async_session в приложении FastAPI\napp.dependency_overrides[get_async_session] = override_get_async_session",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "async_session_maker = sessionmaker(engine_test, class_=AsyncSession, expire_on_commit=False)\n# Привязываем метаданные к тестовому движку\nmetadata.bind = engine_test\n# Переопределяем зависимость get_async_session для использования тестовой базы данных\nasync def override_get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session\n# Заменяем зависимость get_async_session в приложении FastAPI\napp.dependency_overrides[get_async_session] = override_get_async_session\n# Фикстура для подготовки базы данных перед выполнением тестов",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "metadata.bind",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "metadata.bind = engine_test\n# Переопределяем зависимость get_async_session для использования тестовой базы данных\nasync def override_get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session_maker() as session:\n        yield session\n# Заменяем зависимость get_async_session в приложении FastAPI\napp.dependency_overrides[get_async_session] = override_get_async_session\n# Фикстура для подготовки базы данных перед выполнением тестов\n@pytest.fixture(autouse=True, scope='session')\nasync def prepare_database():",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "app.dependency_overrides[get_async_session]",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "app.dependency_overrides[get_async_session] = override_get_async_session\n# Фикстура для подготовки базы данных перед выполнением тестов\n@pytest.fixture(autouse=True, scope='session')\nasync def prepare_database():\n    async with engine_test.begin() as conn:\n        await conn.run_sync(metadata.create_all)\n    yield\n    async with engine_test.begin() as conn:\n        await conn.run_sync(metadata.drop_all)\n# Фикстура для создания экземпляра цикла событий asyncio для каждого теста",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "client = TestClient(app)\n# Фикстура для создания асинхронного клиента HTTPX\n@pytest.fixture(scope=\"session\")\nasync def ac() -> AsyncGenerator[AsyncClient, None]:\n    async with AsyncClient(app=app, base_url=\"http://test\") as ac:\n        yield ac",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_register",
+        "kind": 2,
+        "importPath": "tests.test_auth",
+        "description": "tests.test_auth",
+        "peekOfCode": "def test_register():\n    response = client.post(\"/auth/register\", json={\n        \"email\": \"string\",\n        \"password\": \"string\",\n        \"is_active\": True,\n        \"is_superuser\": False,\n        \"is_verified\": False,\n        \"username\": \"string\",\n        \"role_id\": 1\n    })",
+        "detail": "tests.test_auth",
+        "documentation": {}
+    }
+]
